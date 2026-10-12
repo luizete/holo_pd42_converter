@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# generated fan files and previews
+*.mp4
+preview*.png
+preview*.gif
